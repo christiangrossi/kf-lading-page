@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "start": "http-server public -p $PORT -c-1"
+    "start": "http-server public -p 8080 -c-1"
   },
   "keywords": [],
   "author": "",
