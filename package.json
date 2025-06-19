@@ -1,0 +1,15 @@
+{
+  "name": "landing-page",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server public -p $PORT -c-1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "http-server": "^14.1.1"
+  }
+}
